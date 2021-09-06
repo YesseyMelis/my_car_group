@@ -28,3 +28,4 @@ docker-compose run django bash
 
 Make requests from swagger
 ---------------------------
+http://0.0.0.0:8089/swagger/
